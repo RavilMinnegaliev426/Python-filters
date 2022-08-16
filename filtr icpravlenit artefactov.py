@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np #Исправляет артефакты( учебная программа)
 import cv2
 from matplotlib import pyplot as plt
 input_image = cv2.imread('input.png',0)
